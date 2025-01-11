@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="header">
+    <div id="logo">
+      <h1>A<span>K</span></h1>
+    </div>
+
+    <div id="nav-bar">
+      <nav>
+        <ul>
+           <li><a href="index.html">Home</a></li>
+          <li><a href="#">Query</a></li>
+          </ul>
+      </nav>
+    </div>
+  </div>
+  <div class="container light-pink">
+    <h2 class="contact-head">For any query Fill this form</h2>
+    <div class="main pink">
+      <form action="" oninput="x.value = a.value">
+        <div class="form-group"><label for="fname">Full Name: </label><input type="text" name="fname" id="fname" class="form-input"></div>
+        <div class="form-group"><label for="email">Email: </label><input type="email" name="email" id="email"  class="form-input"></div>
+        <div class="form-group"><label for="DOB">Date of birth</label><input type="date" name="DOB" id="DOB" min="2000-01-02"  class="form-input"></div>
+        <div class="form-group"><label for="number">Phone: </label><input type="number" name="number" id="number"  class="form-input"></div>
+        <div class="form-group"><label for="gender">Gender: </label><input type="radio" name="gender" id="male" value="male">Male 
+          <input type="radio" name="gender" id="female" value="male">Female </div>
+        <div class="form-group"><label for="country">Country: </label>
+          <select name="country" id="country"  class="form-input">
+            <option value="pakistan">pakistan</option>
+            <option value="india">india</option>
+            <option value="USA" selected>USA</option>
+          </select>
+        </div>
+        <fieldset>
+          <legend>Education & Status</legend>
+          <div>
+            <div class="form-group">
+            <label>Education: </label>
+            <select name="Education" id="education"  class="form-input">
+              <option value="matric">Matric</option>
+              <option value="inter">Intermediate</option>
+              <option value="BS">Bachelors</option>
+              <option value="masters">Masters</option>
+            </select>
+          </div>
+            <div class="form-group"><label for="matric-paased">Year of Matric: </label><input type="date" name="matric-date" id="matric-passed" min="2016-01-31" class="form-input"></div>
+
+            <div class="form-group"><label for="language">Languages: </label>
+              <input type="checkbox" name="eng" id="en">English
+              <input type="checkbox" name="hindi" id="hi">Hindi
+              <input type="checkbox" name="urdu" id="ur">Urdu
+            </div>
+            <div class="form-group">
+              <label for="english-level">English-level</label>
+              <input type="range" name="english-level" id="a"  class="form-input">
+              <output name="x" for="a"></output>
+            </div>
+          </div>
+        </fieldset>
+
+        <div class="form-group"><label for="query">Question: </label><input type="text" name="query" id="query" placeholder="Type here..."  class="form-input"></div>
+        <input type="submit" value="Ask Now">
+      </form>
+    </div>
+    <div class="main turquoise asked-q">
+      <h2>Questions related to Queries</h2>
+      <details>
+        <summary>Where did i get my answer&quest;</summary>
+        <p>On your given email.</p>
+      </details>
+      <details>
+        <summary>When did i get my answer&quest;</summary>
+        <p>Within 5 Days</p>
+      </details>
+    </div>
+    <footer class="black">
+      <p>&copy; All rights reserved 2024 Aakash Kumar.Designed by <a href="https://www.linkedin.com/in/sweeta-k-7103972a6/" class="blinking yellow"> Sweeta k</a></p>
+    </footer>
+    
+
+  </div>
+  
+</body>
+</html>
