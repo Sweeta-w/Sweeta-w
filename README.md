@@ -1,29 +1,32 @@
-## 👋 Hi, I'm Sweeta!
+<div align="center">
 
-### 💻 Frontend Developer | Computer Science Student
+# 👋 Hi, I'm Sweeta!
+
+### 💻 Web Developer | Computer Science Student
+
+I build responsive and interactive web experiences  
+while continuously learning and exploring new technologies.
+
+<p>
+  <a href="https://www.linkedin.com/in/sweeta-k-7103972a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Sweeta-w">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://sw-portfolio-7mtf.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="mailto:sweetakcs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+</div>
 
 I'm a passionate **Frontend Developer** and final-year **BS Computer Science student** who enjoys turning ideas and designs into responsive, interactive, and user-friendly web experiences.
 
 I love learning new technologies, solving problems through code, and building projects that combine **clean UI, functionality, and good user experience**.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sweeta-k-7103972a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/Sweeta-w" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-
-  <a href="https://sw-portfolio-7mtf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
-  </a>
-
-  <a href="mailto:sweetakwrtcs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
-
 
 ### 🚀 What I Work With
 
