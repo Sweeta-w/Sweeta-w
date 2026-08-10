@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Sweeta!
+## 👋 Hi, I'm Sweeta!
 
 ### 💻 Frontend Developer | Computer Science Student
 
