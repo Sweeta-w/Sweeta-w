@@ -28,6 +28,8 @@ I'm a passionate **Frontend Developer** and final-year **BS Computer Science stu
 
 I love learning new technologies, solving problems through code, and building projects that combine **clean UI, functionality, and good user experience**.
 
+I believe development is a continuous learning journey — **build something, learn from it, improve it, and build again.**
+
 ### 🚀 What I Work With
 
 * 🌐 **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, Tailwind CSS
@@ -36,6 +38,25 @@ I love learning new technologies, solving problems through code, and building pr
 * 🎨 **Design:** Figma, Canva
 * 🔧 **Tools:** Git, GitHub, VS Code
 * 📱 **Other:** Kotlin, Jetpack Compose
+
+## 🛠️ Tech Stack
+
+**Languages**
+`HTML` `CSS` `JavaScript` `Python` `Kotlin`
+
+**Frontend**
+`React.js` `Next.js` `Bootstrap` `Tailwind CSS`
+
+**Backend**
+`Flask` `Django`
+
+**Database**
+`MySQL` `SQLite` `Supabase`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Figma` `Canva`
+
+---
 
 ### 📌 Featured Projects
 
@@ -46,10 +67,13 @@ I love learning new technologies, solving problems through code, and building pr
 * 🎮 **Word Guess Game** — JavaScript-based Wordle-style game
 * 📊 **Sorting Algorithm Visualizer** — Interactive visualization built with Python
 
-### 🌱 Currently Learning
+## 🌱 My Learning Journey
 
-I'm currently strengthening my skills in **JavaScript, React, Next.js, APIs, and modern frontend development**, while exploring full-stack development and AI-powered applications.
+I'm constantly experimenting with new technologies and challenging myself to build better projects.
 
+From creating my first **HTML pages**, styling interfaces with **CSS**, and adding interactions with **JavaScript**, to now working with **React, Next.js, APIs, and AI-powered applications** — every project has helped me understand something new.
+
+I don't aim to know everything. **I aim to keep learning.**
 ### 🎯 My Goal
 
 To become a skilled **Full-Stack Developer** who builds meaningful digital products, continuously learns, and uses technology to solve real-world problems.
