@@ -24,6 +24,7 @@ while continuously learning and exploring new technologies.
 
 </div>
 
+### About Me
 I'm a passionate **Frontend Developer** and final-year **BS Computer Science student** who enjoys turning ideas and designs into responsive, interactive, and user-friendly web experiences.
 
 I love learning new technologies, solving problems through code, and building projects that combine **clean UI, functionality, and good user experience**.
